@@ -192,7 +192,7 @@ snowguard/
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/snowguard.git
+git clone https://github.com/alimaqadir128-debug/snowguard.git
 cd snowguard
 
 # Open dashboard directly in browser
@@ -228,11 +228,11 @@ When connected to a real ESP32:
 |------|------|
 | Alima Qadir | Hardware + Firmware + Dashboard |
 | Saqlain Bashir | Presentation + System Design |
-| Zainab Amin | Research + Presentation |
+| Zainab Amin | Research + Documentation  |
 | Muskan Ayoub | Testing + Component Assembly |
 
-**Institution:** SSM College of Engineering, Parihaspora, Sopore
-**Event:** Chillai Kalan Hackathon — University-level round
+**Institution:** SSM College of Engineering
+**Event:** Chillai Kalan Hackathon — Pragaash-2026
 
 ---
 
@@ -254,4 +254,4 @@ MIT License — free to use, modify, and build upon.
 
 ---
 
-*Built in Sopore, Kashmir · Winter 2026*
+*Built in Kashmir · Winter 2026*
